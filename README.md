@@ -31,5 +31,5 @@ This is just to pique my interest of DDD using GO
 │       ├── borrow_repo.go
 │       └── member_repo.go
 ├── go.mod
-└── main.go
+└── main.go # bootstrapper
 ```
